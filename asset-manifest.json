@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/habesha-giphy-collection/static/css/main.e2dede88.chunk.css",
+    "main.js": "/habesha-giphy-collection/static/js/main.9161d46b.chunk.js",
+    "main.js.map": "/habesha-giphy-collection/static/js/main.9161d46b.chunk.js.map",
+    "runtime-main.js": "/habesha-giphy-collection/static/js/runtime-main.7c22af13.js",
+    "runtime-main.js.map": "/habesha-giphy-collection/static/js/runtime-main.7c22af13.js.map",
+    "static/js/2.7db90bec.chunk.js": "/habesha-giphy-collection/static/js/2.7db90bec.chunk.js",
+    "static/js/2.7db90bec.chunk.js.map": "/habesha-giphy-collection/static/js/2.7db90bec.chunk.js.map",
+    "index.html": "/habesha-giphy-collection/index.html",
+    "precache-manifest.0191d75f571e75c372dfb143833dda16.js": "/habesha-giphy-collection/precache-manifest.0191d75f571e75c372dfb143833dda16.js",
+    "service-worker.js": "/habesha-giphy-collection/service-worker.js",
+    "static/css/main.e2dede88.chunk.css.map": "/habesha-giphy-collection/static/css/main.e2dede88.chunk.css.map",
+    "static/js/2.7db90bec.chunk.js.LICENSE": "/habesha-giphy-collection/static/js/2.7db90bec.chunk.js.LICENSE",
+    "static/media/logo.svg": "/habesha-giphy-collection/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c22af13.js",
+    "static/js/2.7db90bec.chunk.js",
+    "static/css/main.e2dede88.chunk.css",
+    "static/js/main.9161d46b.chunk.js"
+  ]
+}
